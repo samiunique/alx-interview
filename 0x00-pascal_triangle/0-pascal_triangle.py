@@ -3,9 +3,7 @@
 This module provides a function to generate Pascal's triangle.
 """
 
-from typing import List
-
-def pascal_triangle(n: int) -> List[List[int]]:
+def pascal_triangle(n):
     """
     Generate Pascal's triangle of size `n`.
 
@@ -13,7 +11,7 @@ def pascal_triangle(n: int) -> List[List[int]]:
         n (int): The number of levels in the Pascal's triangle.
 
     Returns:
-        List[List[int]]: A list of lists, where each sublist represents a level in the Pascal's triangle.
+        list: A list of lists, where each sublist represents a level in the Pascal's triangle.
 
     Example:
         >>> pascal_triangle(5)
