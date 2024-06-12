@@ -12,11 +12,11 @@ Familiarity with dynamic programming can help in breaking down the problem into 
 
 Understanding how to perform prime factorization is crucial since the problem can be reduced to finding the sum of the prime factors of <br> 
 the target number n.<br>
-[Prime Factorization (Khan Academy)](https://www.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/<br> pre-algebra-prime-factorization-prealg/v/prime-factorization)<br>
+[Prime Factorization (Khan Academy)](https://www.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiplespre-algebra-prime-factorization-prealg/v/prime-factorization)<br>
 3. Code Optimization:
 
 Knowing how to approach problems from an optimization perspective can be useful in finding the most efficient solution.
-How to optimize Python code<br
+How to optimize Python code<br>
 4. Greedy Algorithms:<br>
 
 The problem can also be approached with greedy algorithms, choosing the best option at each step.<br>
