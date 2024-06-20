@@ -73,7 +73,7 @@ By studying these concepts and utilizing the resources provided, you will be wel
   - status codes should be printed in ascending order<br>
 - - Warning: In this sample, you will have random value - it’s normal to not have the same output as this one.<br>
 
-      ```
+```txt
 alexa@ubuntu:~/0x03-log_parsing$ cat 0-generator.py
 #!/usr/bin/python3
 import random
@@ -134,4 +134,5 @@ Traceback (most recent call last):
 KeyboardInterrupt
     sleep(random.random())
 KeyboardInterrupt
-alexa@ubuntu:~/0x03-log_parsing$```
+alexa@ubuntu:~/0x03-log_parsing$
+```
